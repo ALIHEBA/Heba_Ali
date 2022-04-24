@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Heba Ali</h1>
 <h3 align="center">A passionate Biomedical Engineer from Egypt</h3>
 
+- 🔭 I’m currently working **as Research Assistant in the Nile University**
+
 - 🌱 I’m currently learning **Machine Learning for Graphs, Deep Learning from Stanford University**
 
 - 👯 I’m looking to collaborate on **Deep Learning and Neurorobotics projects**
